@@ -47,3 +47,18 @@
     width: 100%;
     max-width: 1920px;
 }
+
+.header-box {
+    width: 1920px;
+    height: 700px;
+    margin: 0 auto;
+    background-image: url(../img/header-bg.jpg);
+    background-repeat: no-repeat;
+
+}
+.runing-line {
+    padding: 18px 12px;
+    align-items: center;
+    gap: 12px;
+    background: #F54932;
+}
